@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 19 19:37:27 2017
-
-@author: User
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 19 11:56:13 2017
-
-@author: User
-"""
 
 from openpyxl import load_workbook
 import matplotlib.pyplot as plt
